@@ -1,0 +1,39 @@
+.profile {
+  float:left;
+  width: 30%;
+  text-align:center;
+  background-color: lightgreen;
+  height: 1000px;
+}
+.profile2 {
+  float:left;
+  width: 30%;
+  text-align:center;
+  background-color: #6c2eaa;
+  height: 1000px;
+  margin-left: 10px;
+}
+.profile3 {
+  float:left;
+  width: 30%;
+  text-align:center;
+  background-color: #4286f4;
+  height: 1000px;
+  margin-left: 10px;
+}
+
+.button a {
+  text-decoration: none;
+  color:purple;
+  padding:5px;
+  background-color: lightgray;
+}
+
+.button a:hover {
+  background-color:white;
+}
+
+img {
+  margin-top: 10px;
+  width: 80%;
+}
