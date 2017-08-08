@@ -15,6 +15,11 @@ button {
   margin: 10px;
 }
 
+.border{
+  border: black;
+  border: solid;
+}
+
 .profile2 {
   float:left;
   width: 30%;
